@@ -14,8 +14,10 @@ export default function Home() {
             Invite Hatz to Your Server!
           </h1>
           <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-            Click the button on the right to add the bot to your server and start using
-            commands.<br />(More to come soon!)
+            Click the button on the right to add the bot to your server and
+            start using commands.
+            <br />
+            (More to come soon!)
           </p>
         </div>
 
